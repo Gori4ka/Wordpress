@@ -1,0 +1,98 @@
+
+.custom-img-container{
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+.custom-img-container img{
+    width: 100%;
+    height: auto;
+}
+.hide-if-no-js{
+    margin: 0;
+}
+.delete-custom-img.hidden{
+    display: none;
+}
+.dashicons.dashicons-trash{
+    color: red;
+}
+.dashicons.dashicons-edit{
+    color:#757575;
+}
+.dashicons.dashicons-plus{
+    color:#2b51c1;
+}
+.dashicons{
+    text-decoration:none;
+}
+.dashicons.dashicons-no{
+    margin-left: 40px;
+    color: #ec3e3e;
+}
+.dashicons.dashicons-yes{
+    margin-left: 40px;
+    color: green;
+}
+.form-group{
+    max-width: 400px;
+    min-width: 250px;
+}
+.input_content_editor{
+    max-width: 500px;
+    min-width: 250px;
+}
+.page-item a:hover{
+    text-decoration: none;
+}
+.page-item a{
+    text-decoration: none;
+}
+.page-point{
+    border: 0px;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 30px;
+}
+.page-point:hover{
+    background-color: #f1f1f1;
+    color: #0275d8;
+}
+
+.image-lists .single-image{
+    width: 190px;
+    float: left;
+    margin: 5px;
+    height: 255px;
+    border: 2px solid;
+    overflow: hidden;
+}
+.image-lists .image-area{
+    width: 100%;
+    float: left;
+    height: 225px;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+.image-lists .image-area  img{
+    width: 100%;
+    height: auto;
+}
+
+.image-btn span{
+    cursor: pointer;
+}
+.current-featured{
+    color: green;
+}
+.featured-img{
+  width: 150px;
+  height: auto;
+  margin-bottom: 10px;
+  margin-left: 120px;
+}
+.featured-img img{
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,854 @@
+# Translation of Development in Armenian
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-22 00:08+0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"Project-Id-Version: Development\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy_AM\n"
+
+#. translators: weekday
+#: wp-includes/locale.php:101 wp-includes/locale.php:111
+#: wp-includes/locale.php:124
+msgid "Monday"
+msgstr "Երկուշաբթի"
+
+#. translators: weekday
+#: wp-includes/locale.php:102 wp-includes/locale.php:112
+#: wp-includes/locale.php:125
+msgid "Tuesday"
+msgstr "Երեքշաբթի"
+
+#. translators: weekday
+#: wp-includes/locale.php:103 wp-includes/locale.php:113
+#: wp-includes/locale.php:126
+msgid "Wednesday"
+msgstr "Չորեքշաբթի"
+
+#. translators: weekday
+#: wp-includes/locale.php:104 wp-includes/locale.php:114
+#: wp-includes/locale.php:127
+msgid "Thursday"
+msgstr "Հինգշաբթի"
+
+#. translators: weekday
+#: wp-includes/locale.php:103 wp-includes/locale.php:113
+#: wp-includes/locale.php:126
+msgid "Friday"
+msgstr "Ուրբաթ"
+
+#. translators: weekday
+#: wp-includes/locale.php:100 wp-includes/locale.php:110
+#: wp-includes/locale.php:123
+msgid "Sunday"
+msgstr "Կիրակի"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:158
+msgid "Dec_December_abbreviation"
+msgstr "Դկտ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:157
+msgid "Nov"
+msgstr "Նյմ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:156
+msgid "Oct"
+msgstr "Հկտ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:155
+msgid "Sep"
+msgstr "Սպտ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:154
+msgid "Aug"
+msgstr "Օգս"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:153
+msgid "Jul"
+msgstr "Հլս"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:152
+msgid "Jun"
+msgstr "Հնս"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:150
+msgid "Apr"
+msgstr "Ապր"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:149
+msgid "Mar"
+msgstr "Մրտ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:148
+msgid "Feb"
+msgstr "Փտվ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:147
+msgid "Jan"
+msgstr "Հնվ"
+
+#. translators: month name
+#: wp-includes/locale.php:143 wp-includes/locale.php:158
+msgid "December"
+msgstr "Դեկտեմբերի"
+
+#. translators: month name
+#: wp-includes/locale.php:142 wp-includes/locale.php:157
+msgid "November"
+msgstr "Նոյեմբերի"
+
+#. translators: month name
+#: wp-includes/locale.php:141 wp-includes/locale.php:156
+msgid "October"
+msgstr "Հոկտեմբերի"
+
+#. translators: month name
+#: wp-includes/locale.php:140 wp-includes/locale.php:155
+msgid "September"
+msgstr "Սեպտեմբերի"
+
+#. translators: month name
+#: wp-includes/locale.php:139 wp-includes/locale.php:154
+msgid "August"
+msgstr "Օգոստոսի"
+
+#. translators: month name
+#: wp-includes/locale.php:138 wp-includes/locale.php:153
+msgid "July"
+msgstr "Հուլիսի"
+
+#. translators: month name
+#: wp-includes/locale.php:137 wp-includes/locale.php:152
+msgid "June"
+msgstr "Հունիսի"
+
+#. translators: month name
+#: wp-includes/locale.php:136 wp-includes/locale.php:151
+msgid "May"
+msgstr "Մայիսի"
+
+#. translators: month name
+#: wp-includes/locale.php:135 wp-includes/locale.php:150
+msgid "April"
+msgstr "Ապրիլի"
+
+#. translators: month name
+#: wp-includes/locale.php:134 wp-includes/locale.php:149
+msgid "March"
+msgstr "Մարտի"
+
+#. translators: month name
+#: wp-includes/locale.php:133 wp-includes/locale.php:148
+msgid "February"
+msgstr "Փետրվարի"
+
+#. translators: month name
+#: wp-includes/locale.php:132 wp-includes/locale.php:147
+msgid "January"
+msgstr "Հունվարի"
+
+#: wp-activate.php:73
+msgid "Day news"
+msgstr "Օրվա Լրահոս"
+
+#: wp-activate.php:73
+msgid "All news"
+msgstr "Ողջ Լրահոսը"
+
+#: wp-activate.php:73
+msgid "Most read"
+msgstr "Ամենաընթերցված"
+
+#: wp-activate.php:73
+msgid "Comment"
+msgstr "Մեկնաբանություն"
+
+#: wp-activate.php:73
+msgid "Yerevan"
+msgstr "Երևան"
+
+#: wp-activate.php:73
+msgid "Search Results for:"
+msgstr "Որոնման արդյունքները՝:"
+
+#: wp-activate.php:73
+msgid "Search"
+msgstr "Որոնում"
+
+#: wp-activate.php:73
+msgid "Related news"
+msgstr "Կարդացեք նաև"
+
+#: wp-activate.php:73
+msgid "Related posts"
+msgstr "Նման նյութեր"
+
+#: wp-activate.php:73
+msgid "Read More on "
+msgstr "Այլ նորություններ այս բաժնում` "
+
+#: wp-activate.php:73
+msgid "Daily"
+msgstr "Օրվա"
+
+#: wp-activate.php:73
+msgid "Weekly"
+msgstr "Շաբաթվա"
+
+#: wp-activate.php:73
+msgid "Monthly"
+msgstr "Ամսվա"
+
+#: ../404.php:11
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "(All period)"
+msgstr "(Ամբողջ ժամանակշրջանը)"
+
+#: ../search.php:20
+#, php-format
+msgid "unknown location"
+msgstr "Գտնվելու վայրն՝ անհայտ"
+
+#: ../search.php:20
+#, php-format
+msgid "ceasfire violations"
+msgstr "Հրադադարի ռեժիմի խախտում"
+
+#: ../search.php:20
+#, php-format
+msgid "murders"
+msgstr "Սպանություն"
+
+#: ../search.php:20
+#, php-format
+msgid "inaction"
+msgstr "Անգործություն"
+
+#: ../search.php:20
+#, php-format
+msgid "fatal incident"
+msgstr "Դժբախտ պատահար"
+
+#: ../search.php:20
+#, php-format
+msgid "sudden fatality"
+msgstr "Հանկարծակի մահ"
+
+#: ../search.php:20
+#, php-format
+msgid "suicide"
+msgstr "Ինքնասպանություն"
+
+#: ../search.php:20
+#, php-format
+msgid "health issues"
+msgstr "Առողջական խնդիրներ"
+
+#: ../search.php:20
+#, php-format
+msgid "Site Map"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Add an incident"
+msgstr "Ավելացնել միջադեպ"
+
+#: ../search.php:20
+#, php-format
+msgid "Violation against you or your relatives in the RA armed forces"
+msgstr "ՀՀ զինված ուժերում Ձեր կամ Ձեր հարազատների նկատմամբ խախտումներ"
+
+#: ../search.php:20
+#, php-format
+msgid "Related to the non combat fatalities in the RA armed forces after 1994"
+msgstr ""
+"Կապված 1994 թ.-ից հետո  ՀՀ զինված ուժերում ոչ մարտական պայմաններում տեղի "
+"ունեցած մահվան դեպքերի հետ"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"With the help of these buttons it is possible to anonymously enter "
+"information about the violations practiced against you or your relatives in "
+"the RA armed forces or Fatality cases recorded in the RA Armed Forces after "
+"1994. This information, after being reviewed by the website administration, "
+"will be included in the website and in the database with the tags Verified "
+"and Unverified."
+msgstr ""
+"Այս կոճակների օգնությամբ հնարավոր է անանուն մուտքագրել տեղեկատվություն "
+"1994թ.-ից հետո ՀՀ զինված ուժերում Ձեր կամ Ձեր հարազատների նկատմամբ "
+"իրականցված խախտումների կամ ՀՀ զինված ուժերում գրանցված մահվան դեպքերի մասին: "
+"Այս տեղեկատվությունը, ադմինիստրացիայի կողմից վերանայվելուց հետո, կներառվի "
+"կայքում և տվյալների բազայում՝ «Ճշտված» կամ «Չճշտված» պիտակով:"
+
+#: ../search.php:20
+#, php-format
+msgid "Database"
+msgstr "Տվյալների բազա"
+
+#: ../search.php:20
+#, php-format
+msgid "Story of fallen soldier"
+msgstr "Ընկած զինվորի պատմությունը"
+
+#: ../search.php:20
+#, php-format
+msgid "Read more"
+msgstr "Կարդալ"
+
+#: ../search.php:20
+#, php-format
+msgid "Latest news:"
+msgstr "Վերջին նորությունները"
+
+#: ../search.php:20
+#, php-format
+msgid "The database now lists a total of"
+msgstr ""
+"Տվյալների բազան այժմ ներառում է Հայաստանում և Լեռնային Ղարաբաղում 1994 թ.-ից "
+"գրանցված"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"fatalities recorded in the Armenian and Nagorno-Karabakh armed forces since "
+"1994."
+msgstr "մահվան դեպք:"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"The Ministry of Defense built its objections by a distortion of facts ..."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "See more activity"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "have been found"
+msgstr "Հայտնաբերվել է"
+
+#: ../search.php:20
+#, php-format
+msgid "cases"
+msgstr "դեպք"
+
+#: ../search.php:20
+#, php-format
+msgid "Close"
+msgstr "Փակել"
+
+#: ../search.php:20
+#, php-format
+msgid "Share"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Menu"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Search for"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Donate"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "unknown"
+msgstr "անհայտ"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"Please, note that incidents are recorded in the database guided by official "
+"reports however, the descriptions of the cases also include findings which "
+"question the official report, such as the opinions and the testimonies of "
+"relatives, as well as information provided by certain media outlets, "
+"watchdog groups or other experts."
+msgstr ""
+"www.safesoldiers.am–ի անձնակազմը, գրանցված դեպքերը կայքէջ մուտքագրելիս, "
+"մահվան պատճառը նշում է՝ առաջնորդվելով, հիմնականում, պաշտոնական վարկածով, "
+"սակայն միջադեպի նկարագրության մեջ նշվում են նաեւ այն բացահայտումները, որոնք "
+"կասկածի տակ են առնում պաշտոնական վարկածը՝ հարազատների կարծիքները, "
+"վկայություններ, բացահայտումներ այս կամ այն լրատվամիջոցում, իրավապաշտպանների "
+"եւ գործից լավատեղյակ փորձագետների տրամադրած տվյալներ:"
+
+#: ../search.php:20
+#, php-format
+msgid "Stories of soldiers died in non combat conditions"
+msgstr "Համեմատաբար խաղաղ պայմաններում մահացած զինծառայողների պատմությունները"
+
+#: ../search.php:20
+#, php-format
+msgid "Place"
+msgstr "Վայր"
+
+#: ../search.php:20
+#, php-format
+msgid "Region"
+msgstr "Տարածաշրջան"
+
+#: ../search.php:20
+#, php-format
+msgid "Reason"
+msgstr "Պատճառ"
+
+#: ../search.php:20
+#, php-format
+msgid "Conent status"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "see more interactive"
+msgstr "Տե՛ս Ինտերակտիվ նյութեր բաժինը"
+
+#: ../search.php:20
+#, php-format
+msgid "%1$s the number of fatalities in the"
+msgstr "%1$s թ-ին ՀՀ և ԼՂՀ զինված ուժերում"
+
+#: ../search.php:20
+#, php-format
+msgid "ra"
+msgstr "գրանցված"
+
+#: ../search.php:20
+#, php-format
+msgid "and"
+msgstr "մահվան"
+
+#: ../search.php:20
+#, php-format
+msgid "nk armed forces for %1$s"
+msgstr "դեպքերի քանակը %1$s"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"Please note that this interactive infographic reflects data uploaded to this "
+"website and should not be considered a comprehensive assessment of all "
+"fatalities in the Armenian military. In the image you can see the recorded "
+"data of fatal incidents in the Armed Forces by reasons, years and locations. "
+"After changing the year, the relevant data recorded for selected year will "
+"appear in the graphic. Moreover, after clicking the red circles showing the "
+"number of incidents by the particular reason or the location, a new window "
+"will appear with profiles of soldiers died by the selcted reason in the "
+"selected period of time."
+msgstr ""
+"Խնդրում ենք  հաշվի առնել, որ այս ինտերակտիվ ինֆոգրաֆիկն արտացոլում է միայն "
+"այս կայքում տեղադրված տվյալների բազան և չպետք է դիտվի որպես հայկական "
+"բանակում գրանցված բոլոր մահվան դեպքերի համապարփակ գնահատական: Նկարում կարող "
+"եք տեսնել զինված ուժերում  գրանցված մահվան դեպքերի տվյալները՝ ըստ պատճառի, "
+"տարեթվի  և գտնվելու վայրի: Փոխելով  տարեթիվը՝ գրաֆիկում կհայտնվի ընտրված "
+"տարեթվին համապատասխան տվյալների բազան: Ավելին, սեղմելով պատահարների  քանակն "
+"ըստ որոշակի պատճառի և գտնվելու վայրի ցույց տվող կարմիր շրջանների վրա ՝ "
+"կհայտնվի ընտրված պատճառին և ժամանակաշրջանին համապատասխանող մահացած "
+"զինվորների պրոֆիլները ներառող նոր պատուհան:"
+
+#: ../search.php:20
+#, php-format
+msgid "SEE MORE ON HOW TO USE THE WEBSITE"
+msgstr "Տեսնել ավելին, թե ինչպես օգտվել կայքից"
+
+#: ../search.php:20
+#, php-format
+msgid "Cases"
+msgstr "դեպք"
+
+#: ../search.php:20
+#, php-format
+msgid "Death"
+msgstr "Մահվան ելքով միջադեպ"
+
+#: ../search.php:20
+#, php-format
+msgid "Incident"
+msgstr "Իրավախախտում"
+
+#: ../search.php:20
+#, php-format
+msgid "First Name"
+msgstr "Անուն"
+
+#: ../search.php:20
+#, php-format
+msgid "Last Name"
+msgstr "Ազգանուն"
+
+#: ../search.php:20
+#, php-format
+msgid "Plase"
+msgstr "Վայր"
+
+#: ../search.php:20
+#, php-format
+msgid "Peace Dialogue NGO"
+msgstr "«Խաղաղության երկխոսություն» ՀԿ"
+
+#: ../search.php:20
+#, php-format
+msgid "Non-governmental organizastion"
+msgstr "հասարակական կազմակերպություն"
+
+#: ../search.php:20
+#, php-format
+msgid "Address: 40 ap. 12 Myasnikyan str.,"
+msgstr "Հասցե՝ Մյասնիկյան 12, բն 40"
+
+#: ../search.php:20
+#, php-format
+msgid "2002, Vanadzor, Armenia;"
+msgstr "Հայաստանի Հանրապետություն, 2002, ք. Վանաձոր,"
+
+#: ../search.php:20
+#, php-format
+msgid "Tel:"
+msgstr "Հեռ.՝"
+
+#: ../search.php:20
+#, php-format
+msgid "Mob:"
+msgstr "Բջջ.՝"
+
+#: ../search.php:20
+#, php-format
+msgid "E-mail:"
+msgstr "Էլ. Փոստ՝"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"The website is prepared in the framework the Safe Soldiers for a Safe "
+"Armenia project of Peace Dialogue NGO. The project Safe Soldiers for a Safe "
+"Armenia is supported by PAX the Netherlands."
+msgstr ""
+"Կայքը պատրաստվել է «Խաղաղության երկխոսություն» հկ-ի  «Ապահով զինվորներ՝ "
+"անվտանգ Հայաստանին» ծրագրի շրջանակներում"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"The articles by Peace Dialogue are licensed under a Creative Commons "
+"Attribution-NonCommercial-ShareAlike 4.0 International License."
+msgstr ""
+"«Խաղաղության երկխոսության» կողմից պատրաստված հոդվածներն ունեն  Creative "
+"Commons Attribution-NonCommercial-ShareAlike 4.0  միջազգային լիցենզավորում:"
+
+#: ../search.php:20
+#, php-format
+msgid "DISCLAIMER:"
+msgstr "Ուշադրություն."
+
+#: ../search.php:20
+#, php-format
+msgid ""
+" Through this website you are able to link to other websites which are not "
+"under the control of Peace Dialogue NGO. We have no control over the nature, "
+"content and availability of those sites. The inclusion of any links does not "
+"necessarily imply a recommendation or endorse the views expressed within "
+"them."
+msgstr ""
+" կայքի միջոցով դուք կարող եք կապվել այլ կայքերի հետ, որոնք «Խաղաղության "
+"երկխոսություն» հկ-ին չեն պատկանում: Մենք պատասխանատու չենք այդ կայքերի "
+"բնույթի, բովանդակության և օգտակարության համար: Որևէ հղումի ընդգրկումը չի "
+"ենթադրում, որ կազմակերպությունը երաշխավորում է այն կամ համաձայն է "
+"ներկայացված տեսակետներին:"
+
+#: ../search.php:20
+#, php-format
+msgid "Name"
+msgstr "Անուն"
+
+#: ../search.php:20
+#, php-format
+msgid "Surname"
+msgstr "Ազգանուն"
+
+#: ../search.php:20
+#, php-format
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+#: ../search.php:20
+#, php-format
+msgid "Location"
+msgstr "Վայրը"
+
+#: ../search.php:20
+#, php-format
+msgid "Unit"
+msgstr "Զորամաս"
+
+#: ../search.php:20
+#, php-format
+msgid "Officer"
+msgstr "Հրամանատար"
+
+#: ../search.php:20
+#, php-format
+msgid "Officers status"
+msgstr "Կոչում"
+
+#: ../search.php:20
+#, php-format
+msgid "Details"
+msgstr "Մանրամասներ"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"The information of the applicant will not be published, it is only for our "
+"records so that we can keep in touch."
+msgstr ""
+"Լրացնողի մասին ինֆորմացիան չի հրապարակվում կայքում, տեսանելի է միայն կայքի "
+"ադմինիստրացիայի համար եւ ուղղակի հետադարձ կապի համար է"
+
+#: ../search.php:20
+#, php-format
+msgid "Applicants name"
+msgstr "Լրացնողի անունը"
+
+#: ../search.php:20
+#, php-format
+msgid "Applicants surname"
+msgstr "Լրացնողի ազգանունը"
+
+#: ../search.php:20
+#, php-format
+msgid "Applicants phone"
+msgstr "Լրացնողի հեռախոսահամարը"
+
+#: ../search.php:20
+#, php-format
+msgid "Applicants email"
+msgstr "Լրացնողի էլ. հասցեն"
+
+#: ../search.php:20
+#, php-format
+msgid "Add a fatality case recorded in the RA armed forces after 1994"
+msgstr "1994թ.-ից հետո ՀՀ ԶՈւ-ում տեղի ունեցած մահվան ելքով միջադեպ"
+
+#: ../search.php:20
+#, php-format
+msgid "Save and submit"
+msgstr "Պահպանել եւ ուղարկել"
+
+#: ../search.php:20
+#, php-format
+msgid "Search results"
+msgstr "Որոնման արդյունքները"
+
+#: ../search.php:20
+#, php-format
+msgid "Date Added"
+msgstr "Ամսաթիվ"
+
+#: ../search.php:20
+#, php-format
+msgid "Category"
+msgstr "Կատեգորիա"
+
+#: ../search.php:20
+#, php-format
+msgid "Add media"
+msgstr "Ավելացնել մեդիա"
+
+#: ../search.php:20
+#, php-format
+msgid "Latest video"
+msgstr "Նոր տեսանյութեր"
+
+#: ../search.php:20
+#, php-format
+msgid "More articles"
+msgstr "Այլ հոդվածներ"
+
+#: ../search.php:20
+#, php-format
+msgid "Latest analysis"
+msgstr "Վերջին վերլուծություններ"
+
+#: ../search.php:20
+#, php-format
+msgid "Interactive"
+msgstr "Ինտերակտիվ"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"Interactive map of the geographical distribution of the deaths recorded in "
+"the RA armed forces and NK DA in non combat situations."
+msgstr ""
+"ՀՀ և ԼՂ զինված ուժերում խաղաղ պայմաններում գրանցված մահվան դեպքերի "
+"աշխարհագրական բաշխվածության ինտերակտիվ քարտեզ:"
+
+#: ../search.php:20
+#, php-format
+msgid "incidents location"
+msgstr "դեպքի վայրի վերաբերյալ"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"Please note that this interactive infographic reflects data uploaded to this "
+"website and should not be considered a comprehensive assessment of all "
+"fatalities in the Armenian military. In the image you can see the recorded "
+"data of fatal incidents in the Armed Forces by reasons, date and place. "
+"After changing the date, place or region in the drop-down menu, the relevant "
+"data recorded for selected creteria will appear in the graphic. After "
+"clicking the element of the pie, a new window will appear with profiles of "
+"soldiers died by the selcted reason in the selected period of time."
+msgstr ""
+"Պետք է նկատի ունենալ, որ այս ինտերակտիվ ինֆոգրաֆիկան արտացոլում է այն "
+"ինֆորմացիան, որն ավելացվում է կայքում և այն չպետք է դիտվի որպես հայկական "
+"զինված ուժերում գրանցված մահվան դեպքերի համապարփակ գնահատական: Նկարում "
+"կարելի է տեսնել զինված ուժերում գրանցված մահվան դեպքերն՝ ըստ պատճառների, "
+"ամսաթվի և վայրի: Ամսաթիվը, վայրը կամ տարածաշրջանը ցանկում փոխելով`նշված "
+"չափանիշին  համապատասխան ինֆորմացիան կհայտնվի: Սեղմելով ինֆոգրաֆիկայի "
+"համապատասխան բաժնի վրա՝ նոր պատուհան կհատնվի, որը կպարունակի այն զոհված "
+"զինծառայողների պրոֆիլները, ովքեր մահացել են նշված պատճառով կամ նշված "
+"ժամանակաշրջանում:"
+
+#: ../search.php:20
+#, php-format
+msgid "The number of fatalities by reasons"
+msgstr "Մահվան դեպքերի թիվն ըստ պատճառների"
+
+#: ../search.php:20
+#, php-format
+msgid "fatalities have been recorded"
+msgstr "Մահվան դեպքերը գրանցվել են"
+
+#: ../search.php:20
+#, php-format
+msgid "TOTAL"
+msgstr "Ընդհանուր"
+
+#: ../search.php:20
+#, php-format
+msgid "NUMBER"
+msgstr "Թիվ"
+
+#: ../search.php:20
+#, php-format
+msgid "We do not possess information on"
+msgstr "Մենք տեղեկություն չունենք "
+
+#: ../search.php:20
+#, php-format
+msgid "Year"
+msgstr "Տարեթիվ"
+
+#: ../search.php:20
+#, php-format
+msgid "Oops! That page cant be found."
+msgstr "Այս էջը գոյություն չունի:"
+
+#: ../search.php:20
+#, php-format
+msgid "Add by"
+msgstr "Ավելացվել է"
+
+#: ../search.php:20
+#, php-format
+msgid "Content status"
+msgstr "Կարգավիճակը"
+
+#: ../search.php:20
+#, php-format
+msgid "Verified"
+msgstr "Ճշտված"
+
+#: ../search.php:20
+#, php-format
+msgid "Unverified"
+msgstr "ՉՃշտված"
+
+#: ../search.php:20
+#, php-format
+msgid "Featured:"
+msgstr "Ընտրանի"
+
+#: ../search.php:20
+#, php-format
+msgid "There are no cases of such data."
+msgstr "Այսպիսի տվյալներով դեպքեր չկան:"
+
+#: ../search.php:20
+#, php-format
+msgid "Sorry for your result no results"
+msgstr "Ներեղություն, ձեր որոնման համապատասխան արդյունք չկա։"
+
+#: ../category.php:20
+#, php-format
+msgid "Posted"
+msgstr "Հրապարակվել է"
+
+#: ../single.php:20
+#, php-format
+msgid "Back to"
+msgstr "Վերադառնալ"
+
+#: ../single.php:20
+msgid "Views: "
+msgstr "Դիտվել է` "
+
+#: ../single.php:20
+msgid "Print"
+msgstr "Տպել"
+
+#: ../single.php:20
+msgid "News feed"
+msgstr "ՕՐՎԱ  ԼՈՒՐԵՐԸ"
+
+#: ../single.php:20
+msgid "TOP articles of the week"
+msgstr "ՇԱԲԱԹՎԱ ԹՈՓ ՆՅՈՒԹԵՐԸ"
+
+#: ../single.php:20
+msgid "Featured news"
+msgstr "Գլխավոր նյութեր"
+
+#: ../single.php:20
+msgid "Other Photos"
+msgstr "Այլ ֆոտոշարքեր"

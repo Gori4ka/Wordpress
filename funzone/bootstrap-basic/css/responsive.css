@@ -1,0 +1,151 @@
+@media (min-width: 768px) {
+
+  .navbar-fixed-top .navbar .navbar-collapse {
+    margin: 10px 0;
+  }
+
+    .navbar-fixed-top .main-navigation {
+        margin-bottom: 0;
+    }
+
+    .navbar-fixed-top .input-group-btn {
+      height: 30px;
+      line-height: 10px;
+    }
+
+    .navbar-fixed-top .search-icon {
+      bottom: 10px;
+    }
+
+    .caret {
+        display: none;
+    }
+    .navbar-nav>li:hover>.dropdown-menu {
+        display: block;
+    }
+
+    .navbar .navbar-nav {
+      display: inline-block;
+      float: none;
+      vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+      text-align: center;
+    }
+}
+
+
+@media (max-width: 1199px) {
+
+  .related-item-image img{
+    width: 100%;
+    height: auto;
+  }
+
+  .site-menu .navbar-nav>li>a {
+    margin: 0 8px;
+    text-transform: capitalize;
+  }
+  .project-cover .cover-img {
+    height: 130px;
+  }
+  .post-block-list {
+    margin-left: 0;
+  }
+
+  .home-top-section {
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 992px) {
+
+  .site-menu .navbar-nav>li>a {
+      line-height: 23px;
+  }
+  .search_form {
+    bottom: 39px;
+  }
+  .search-icon {
+    bottom: 30px;
+  }
+  .project-cover .cover-img {
+    height: 110px;
+  }
+
+  .hero-title {
+    font-size: 18px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  .powered_by {
+    text-align: center;
+  }
+
+  .social-follow-buttons {
+    margin: 10px auto;
+    float: none;
+  }
+
+  .footer-section  .wp-subscribe-wrap {
+    text-align: center;
+  }
+
+  .site-menu .navbar-nav>li>a {
+    line-height: 30px;
+  }
+
+  .custom-search-form {
+    margin-bottom: 40px;
+  }
+
+  ul>li .sub-menu:before {
+    border: 0;
+  }
+
+  .project-cover .cover-img {
+    width: 100%;
+    height: auto;
+  }
+
+  .search_form {
+    right: 15px;
+    bottom: -10px;
+  }
+
+  .search-icon {
+    bottom: 0;
+    top: 0;
+  }
+
+
+    .category-post-item-image img {
+        height: auto !important;
+    }
+    .site-menu .navbar-nav li:hover {
+        box-shadow: none;
+    }
+    .author-block .author-post-item .author-post-title {
+        height: 57px;
+        font-size: 14px;
+    }
+    .author-name h1 {
+        font-size: 26px;
+    }
+}
+
+
+@media screen and (min-width: 1120px) and (max-width: 1199px) {
+  .play-video {
+    bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .navbar-nav>li>.dropdown-menu {
+    top: 23px;
+  }
+}

@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bootstrap-basic\n"
+"POT-Creation-Date: 2016-04-06 14:51+0700\n"
+"PO-Revision-Date: 2016-04-06 14:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;esc_attr_x;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:11
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:17 ../inc/template-tags.php:167
+#: ../inc/widgets/BootstrapBasicSearchWidget.php:98 ../searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../404.php:20 ../inc/template-tags.php:170
+#: ../inc/widgets/BootstrapBasicSearchWidget.php:101 ../searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: ../404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "All period"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "unknown location"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "ceasfire violations"
+msgstr "Հրադադարի ռեժիմի խախտում"
+
+#: ../search.php:20
+#, php-format
+msgid "murders"
+msgstr "Սպանություն"
+
+#: ../search.php:20
+#, php-format
+msgid "inaction"
+msgstr "Անփութություն"
+
+#: ../search.php:20
+#, php-format
+msgid "fatal incident"
+msgstr "Դժբախտ պատահար"
+
+#: ../search.php:20
+#, php-format
+msgid "sudden fatality"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "suicide"
+msgstr "Ինքնասպանություն"
+
+#: ../search.php:20
+#, php-format
+msgid "health issues"
+msgstr "Առողջական խնդիրներ"
+
+#: ../search.php:20
+#, php-format
+msgid "Site Map"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Add an incident"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Violation against you
+    or your relatives in
+    the RA armed forces"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Related to the non combat
+    fatalities in the RA armed forces after 1994"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "With the help of these buttons it is possible
+to anonymously enter information about the violations
+practiced against you or your relatives in the RA armed
+forces or Fatality cases recorded in the RA Armed Forces after
+1994. This information, after being reviewed by the website administration,
+will be included in the website and in the database with the tags Verified and Unverified."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Database"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "STORIES OF FALLEN SOLDIERS"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Read more"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "The database now lists a total of
+910  fatalities recorded in the Arme
+nian and Nagorno-Karabakh armed
+forces since 1994."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Latest news:"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "The Ministry of Defense built its objections by a distortion of facts ..."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "The number of the fatalities in the RA and NK Armed Forces in 2015 ..."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Peace Dialogue NGOs suggestions on the draft action plan of the RA Ministry of Defense for the Human Rights protection for the period 2017-2019 ..."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "See more activity"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "See search results"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Close"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Search"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Share"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Menu"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Search for"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Donate"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "unknown"
+msgstr "անհայտ"
+
+#: ../search.php:20
+#, php-format
+msgid "Please, note that incidents are recorded in the database guided by official reports however,
+the descriptions of the cases also include findings which question the official report, such as the
+opinions and the testimonies of relatives, as well as information provided by certain media outlets,
+watchdog groups or other experts."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Stories of soldiers died in non combat conditions"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Place"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Region"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Reason"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Conent status"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Add by"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Safesoldiers"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "see more interactive"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "the number of fatalities in the"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "ra"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "and"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "nk armed forces for 2014"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Please note that this interactive infographic reflects data
+uploaded to this website and should not be considered a comprehensive
+assessment of all fatalities in the Armenian military. In the image you
+can see the recorded data of fatal incidents in the Armed Forces by reasons,
+years and locations. After changing the year, the relevant data recorded for
+selected year will appear in the graphic. Moreover, after clicking the red circles
+showing the number of incidents by the particular reason or the location, a new
+window will appear with profiles of soldiers died by the selcted reason in the selected
+period of time."
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "SEE MORE ON HOW TO USE THE WEBSITE"
+msgstr ""
+
+
+
+
+
+
+
+#: ../search.php:20
+#, php-format
+msgid "Place"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Death"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Incident"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Place"
+msgstr ""

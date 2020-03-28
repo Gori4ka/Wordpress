@@ -1,0 +1,42 @@
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+# how to redirect folders browsing to error 404 page
+Options All -Indexes
+ErrorDocument 403 /404.html
+
+ErrorDocument 404 /404.html
+
+RewriteCond %{REQUEST_URI} /+[^\.]+$
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+
+# external redirect from /example.html to /example
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+([^.]+)\.html [NC]
+RewriteRule ^ /%1/ [R=301,L]
+
+# internal forward from /example/ to //example.html
+# add head   <base href="/" />
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+?)/?$ /$1.html [L]
+
+# redirect a folder if filename existing with the same name
+RewriteCond %{REQUEST_URI} ^/games/ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !games.html [NC]
+RewriteRule ^(.*)$ /games.html [L]
+
+RewriteCond %{REQUEST_URI} ^/microphone-settings/ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !microphone-settings.html [NC]
+RewriteRule ^(.*)$ /microphone-settings.html [L]
+
+RewriteCond %{REQUEST_URI} ^/es/configuracion-del-microfono/ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !configuracion-del-microfono.html [NC]
+RewriteRule ^(.*)$ /es/configuracion-del-microfono.html [L]

@@ -1,0 +1,57 @@
+# Translation of Development in Czech
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-10 14:20+0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.5\n"
+"Project-Id-Version: Development\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+
+#. translators: weekday
+#: wp-includes/locale.php:101 wp-includes/locale.php:111
+#: wp-includes/locale.php:124
+msgid "Renowned Company of Legal Experts"
+msgstr "Renomovaný znalecký ústav"
+
+#. translators: weekday
+#: wp-includes/locale.php:102 wp-includes/locale.php:112
+#: wp-includes/locale.php:125
+msgid "More about us"
+msgstr "Poznejte nás blíže"
+
+#. translators: weekday
+#: wp-includes/locale.php:103 wp-includes/locale.php:113
+#: wp-includes/locale.php:126
+msgid "Contact us"
+msgstr "Kontaktujte nás"
+
+#. translators: weekday
+#: wp-includes/locale.php:101 wp-includes/locale.php:111
+#: wp-includes/locale.php:124
+msgid "Our Team"
+msgstr "Náš tým"
+
+#. translators: weekday
+#: wp-includes/locale.php:102 wp-includes/locale.php:112
+#: wp-includes/locale.php:125
+msgid "Expertise"
+msgstr "Zaměření"
+
+#. translators: weekday
+#: wp-includes/locale.php:102 wp-includes/locale.php:112
+#: wp-includes/locale.php:125
+msgid "Latest News"
+msgstr "Last informujeme"
+
+#. translators: weekday
+#: wp-includes/locale.php:102 wp-includes/locale.php:112
+#: wp-includes/locale.php:125
+msgid "Read more"
+msgstr "Více zde"

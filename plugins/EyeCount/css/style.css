@@ -1,0 +1,104 @@
+.tab-button {
+    font-size: 12px;
+    padding: 6px 13px;
+    text-transform: uppercase;
+    padding: 6px 3px;
+    float: left;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    box-shadow: 1px 0 0 #CCC;
+    background: #000;
+    font-weight: normal;
+    width: 33.3%;
+}
+.most-read-block-sidebar .maincol-title {
+    font-size: 16px;
+    color: #222;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #ec1c24;
+}
+.newsfeed-articles .entry-date{
+    font-size: 11px;
+    color: #000;
+}
+.newsfeed-articles .entry-title {
+    line-height: 1.4em;
+    font-size: 0.6em;
+    font-weight: bold;
+}
+.active-btn, .tab-button:hover {  
+    background-color: #ec1c24;
+    color: #fff;   
+}
+.widget-tab {
+    display: none;
+    margin-left: 11px;
+}
+.widget-tab.active-tab {
+    display: block;
+    clear: left;
+}
+.newsfeed-articles .entry-number {
+    font-size: 1em;
+    display: block;
+    float: left;
+    padding: 2px 6px;
+    margin-right: 1px;
+}
+.newsfeed-articles .entry-number-odd {}
+.newsfeed-articles .entry-number-even {}
+
+.newsfeed-articles article .entry-title {
+    font-size: 1em;
+    line-height: 1.4em;
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    transition: all 300ms ease-out;
+}
+
+
+.newsfeed-articles {
+    padding-top: 10px;
+}
+
+.newsfeed-articles .entry-thumb img {
+    width: 100%;
+    height: auto;
+
+}
+.newsfeed-articles .entry-thumb 
+{
+    width: 80px;
+    float: left;
+    margin: 0px 5px 5px 0;  
+}
+.tab-switcher article {
+    clear: left;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-bottom: 1px solid #c1c1c1;
+}
+
+.tab-switcher article:last-child {
+    border-bottom: none;
+}
+
+.tab-switcher article::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.tab-switcher article .entry-title {
+    border-bottom: none;
+    line-height: 15px;
+    font-size: 0.75em;
+    display: block;
+    height: 45px;
+    overflow: hidden;
+}

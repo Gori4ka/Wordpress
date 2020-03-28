@@ -1,0 +1,567 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Jul 6, 2016, 3:10:03 PM
+    Author     : ghevond
+*/
+
+#cases-informer .informer-background{
+    position: relative;
+}
+
+#cases-informer .cases-total-count{
+    width: 273px;
+    height: 273px;
+    background: #e8e9eb;
+    color: white;
+    border-radius: 162px;
+    font-size: 160px;
+    text-align: center;
+    line-height: 215px;
+    left: 53px;
+    top: 32px;
+    position: absolute;
+}
+#cases-informer .cases-region-armenia{
+    width: 310px;
+    height: 310px;
+    float: left;
+    top: 0px;
+    left: 326px;
+    position: absolute;
+}
+#cases-informer{
+    position: relative;
+    width: 760px;
+    height: 340px;
+}
+#cases-informer .cases-region-nkr img{
+    max-width: 100%;
+    max-height: 100%;
+}
+#cases-informer .cases-region-nkr{
+    width: 156px;
+    height: 175px;
+    position: absolute;
+    right: 32px;
+    top: 83px;
+}
+.infograph-title{
+    width: 332px;
+    left: 25px;
+    position: absolute;
+}
+.infograph-title .infograph-strong-text{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.infograph-title .infograph-title-text{
+    color: #808080;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.infograph-title .infograph-small-text{
+    color: #808080;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.infograph-arrow {
+    width: 30px;
+    height: 67px;
+    position: absolute;
+    top: 65px;
+    background-image: url(../images/arrow.png);
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.infograph-arrow-left{
+    left: 12px;
+}
+.infograph-arrow-rigth{
+    right: 16px;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.arm-cases{
+    top: 172px;
+    left: 402px;
+    border-bottom: 1px solid #c4c5c5;
+    line-height: 16px;
+    font-size: 17px;
+}
+.arm-cases:before {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    content: '';
+    background: #929294;
+    right: -16px;
+    top: 4px;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.nkr-cases{
+    top: 149px;
+    border-bottom: 1px solid #c4c5c5;
+    line-height: 16px;
+    font-size: 17px;
+    right: 23px;
+}
+.nkr-cases:before{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    content: '';
+    background: #929294;
+    left: -16px;
+    top: 4px;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.unnown-cases:before{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    content: '';
+    background: #929294;
+    right: -16px;
+    top: -5px;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.unnown-cases{
+    top: 65px;
+    border-bottom: 1px solid #c4c5c5;
+    line-height: 16px;
+    font-size: 17px;
+    right: 170px;
+}
+.cases-inform{
+    position: absolute;
+    color: #8f8f90;
+}
+.unknow-cases-text{
+    position: absolute;
+    top: 46px;
+    text-decoration: underline;
+    line-height: 18px;
+    font-size: 17px;
+    max-width: 149px;
+    right: -3px;
+    display: block;
+    color: #8f8f90;
+    -moz-text-decoration-color: #c4c5c5;
+    text-decoration-color: #c4c5c5;
+}
+.all-period{
+  width: 150px;
+  height: 23px;
+  position: absolute;
+  left: 240px;
+  top: 110px;
+  font-size: 17px;
+  font-weight: bold;
+}
+.all-period-date{
+  float: left;
+}
+.reason-item{
+    position: absolute;
+}
+
+.reason-item .count{
+    color: #ffffff;
+}
+.reason-item .reason-text{
+    color: #e83346;
+}
+.reasion-image{
+    position: absolute;
+    z-index: 2;
+}
+.reason-item .reason-text{
+    position: absolute;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.reason-1{
+    width: 140px;
+    top: 154px;
+}
+.reason-1 .count{
+    width: 66px;
+    height: 66px;
+    display: block;
+    background: #e83346;
+    position: absolute;
+    top: 62px;
+    left: 35px;
+    border-radius: 50px;
+    z-index: 1;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+}
+
+.reason-1 .reason-text{
+  width: 140px;
+  top: 113px;
+  left: -36px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.reason-2{
+  width: 110px;
+  top: 195px;
+  margin-left: 136px;
+}
+.reason-2 .count{
+  width: 40px;
+  height: 40px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  border-radius: 30px;
+  z-index: 1;
+  text-align: center;
+  line-height: 39px;
+  font-size: 17px;
+}
+.reason-2 .reason-text{
+  width: 100px;
+  top: 46px;
+  left: -26px;
+  font-size: 12px;
+}
+.reason-3{
+  width: 110px;
+  top: 154px;
+  margin-left: 223px;
+}
+.reason-3 .count{
+  width: 31px;
+  height: 31px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: 54px;
+  left: 47px;
+  border-radius: 24px;
+  z-index: 2;
+  text-align: center;
+  line-height: 30px;
+  font-size: 13px;
+}
+.reason-3 .reason-text{
+  width: 100px;
+  top: 40px;
+  left: 83px;
+  font-size: 9px;
+}
+.reason-4{
+  width: 103px;
+  top: 203px;
+  margin-left: 329px;
+}
+.reason-4 .count{
+  width: 40px;
+  height: 40px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: 1px;
+  left: 31px;
+  border-radius: 30px;
+  z-index: 1;
+  text-align: center;
+  line-height: 32px;
+  font-size: 16px;
+}
+.reason-4 .reason-text{
+  width: 90px;
+  top: 84px;
+  left: -11px;
+  font-size: 12px;
+  line-height: 11px;
+}
+.reason-5{
+  width: 100px;
+  top: 245px;
+  margin-left: 431px;
+}
+.interrogative{
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  border: 2px solid #e83346;
+  text-align: center;
+  line-height: 65px;
+  font-size: 47px;
+  font-weight: bold;
+}
+.reason-5 .count{
+  width: 35px;
+  height: 35px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: -25px;
+  left: 44px;
+  border-radius: 26px;
+  z-index: 1;
+  text-align: center;
+  line-height: 31px;
+  font-size: 15px;
+}
+.reason-5 .reason-text{
+  width: 90px;
+  top: 38px;
+  left: 59px;
+  font-size: 10px;
+  line-height: 11px;
+}
+.reason-6{
+  width: 66px;
+  top: 213px;
+  margin-left: 542px;
+}
+.reason-6 .count{
+  width: 32px;
+  height: 32px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: 26px;
+  z-index: 1;
+  text-align: center;
+  line-height: 26px;
+  font-size: 14px;
+}
+.reason-6 .reason-text{
+  width: 80px;
+  top: 38px;
+  left: -16px;
+  font-size: 10px;
+  line-height: 10px;
+}
+.reason-7{
+  width: 110px;
+  top: 202px;
+  margin-left: 638px;
+}
+.reason-7 .count{
+  width: 32px;
+  height: 32px;
+  display: block;
+  background: #e83346;
+  position: absolute;
+  top: 40px;
+  left: 72px;
+  border-radius: 26px;
+  z-index: 2;
+  text-align: center;
+  line-height: 26px;
+  font-size: 14px;
+}
+.reason-7 .reason-text{
+  width: 73px;
+  top: 47px;
+  left: -19px;
+  font-size: 9px;
+  line-height: 10px;
+}
+
+@media (max-width: 760px) {
+  #cases-informer{
+    width: 540px;
+    height: 465px;
+    position: relative;
+  }
+  #cases-informer .cases-total-count{
+    width: 142px;
+    height: 142px;
+    background: #e8e9eb;
+    color: white;
+    border-radius: 80px;
+    font-size: 80px;
+    text-align: center;
+    line-height: 136px;
+    left: 53px;
+    top: 32px;
+    position: absolute;
+  }
+  .infograph-arrow {
+    display: none;
+  }
+  .infograph-title {
+    width: 235px;
+    left: 97px;
+    top: 25px;
+    position: absolute;
+  }
+  .infograph-title .infograph-small-text {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .infograph-title .infograph-title-text {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .infograph-title .infograph-strong-text {
+    font-size: 12px;
+    margin-bottom: 49px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  #cases-informer .cases-region-armenia{
+    width: 140px;
+    height: 140px;
+    float: left;
+    top: 22px;
+    left: 383px;
+    position: absolute;
+  }
+  #cases-informer .cases-region-nkr img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  #cases-informer .cases-region-nkr{
+    width: 45px;
+    height: 55px;
+    position: absolute;
+    right: -15px;
+    top: 79px;
+  }
+  .all-period{
+    width: 100px;
+    position: absolute;
+    left: 125px;
+    top: 82px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .all-period-date{
+    float: left;
+  }
+  .nkr-cases {
+    top: 86px;
+    border-bottom: 1px solid #c4c5c5;
+    line-height: 14px;
+    font-size: 13px;
+    right: -13px;
+  }
+  .unknow-cases-text{
+    display: none;
+  }
+  .unnown-cases:before{
+    display: none;
+  }
+  .arm-cases {
+    top: 85px;
+    left: 381px;
+    border-bottom: 1px solid #c4c5c5;
+    line-height: 15px;
+    font-size: 13px;
+  }
+  .arm-cases:before {
+    right: -17px;
+    top: 1px;
+  }
+  .unnown-cases{
+    display: none;
+  }
+  .reason-item .reason-text{
+    color: #b82b6b;
+  }
+  .reason-1 {
+    width: 95px;
+    top: 131px;
+    left: 55px;
+  }
+  .reason-1 .count{
+    width: 42px;
+    height: 42px;
+    display: block;
+    background: #e83346;
+    position: absolute;
+    top: 46px;
+    left: 24px;
+    border-radius: 40px;
+    z-index: 1;
+    text-align: center;
+    line-height: 39px;
+    font-size: 28px;
+  }
+
+  .reason-1 .reason-text{
+    width: 140px;
+    top: 134px;
+    left: -6px;
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .reason-2{
+    width: 77px;
+    top: 188px;
+    margin-left: 184px;
+  }
+  .reason-2 .count{
+    width: 36px;
+    height: 36px;
+    display: block;
+    background: #e83346;
+    position: absolute;
+    top: -7px;
+    left: 4px;
+    border-radius: 27px;
+    z-index: 1;
+    text-align: center;
+    line-height: 35px;
+    font-size: 16px;
+  }
+  .reason-2 .reason-text{
+    width: 100px;
+    top: 92px;
+    left: -5px;
+    font-size: 13px;
+  }
+  .reason-3{
+    width: 115px;
+    top: 154px;
+    margin-left: 223px;
+  }
+  .reason-3 .count{
+    width: 31px;
+    height: 31px;
+    display: block;
+    background: #e83346;
+    position: absolute;
+    top: 54px;
+    left: 47px;
+    border-radius: 24px;
+    z-index: 2;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;
+  }
+  .reason-3 .reason-text{
+    width: 100px;
+    top: 40px;
+    left: 83px;
+    font-size: 9px;
+  }
+}

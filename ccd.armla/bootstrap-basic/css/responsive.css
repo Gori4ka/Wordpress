@@ -1,0 +1,394 @@
+@media(min-width:768px){
+    .main-menu>li>a>.caret {
+        display: none;
+    }
+
+    .dropdown:hover>.dropdown-menu {
+    	display: block;
+    }
+}
+
+@media(max-width:1199px){
+
+  .calendar .title {
+    font-size: 16px;
+  }
+
+  .category-post-item-image.image-height {
+    height: 140px;
+  }
+
+  .header-phone .phone-number {
+    font-size: 18px;
+  }
+
+  .header-phone .glyphicon-phone-alt {
+    font-size: 14px;
+    margin-right: 3px;
+    padding: 2px 5px;
+  }
+
+  .header-top-text p {
+    top: 50px;
+    font-size: 18px;
+  }
+
+  .main-menu>li>a {
+    font-size: 13px;
+  }
+
+  .lenguge-block p {
+      margin-bottom: 0px;
+  }
+
+  .header-phone {
+    margin-bottom: 10px;
+  }
+
+  .lenguge-block .lang {
+      margin-bottom: 10px;
+  }
+
+  .video-container {
+      position: relative;
+      padding-bottom: 26%;
+      padding-top: 30px; height: 0; overflow: hidden;
+  }
+
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+
+  .category_block .item-image {
+      height: 87px;
+  }
+
+  .video-block .first-video-item {
+    height: 250px;
+    overflow: hidden;
+    width: 380px;
+    float: left;
+    margin-right: 27px;
+  }
+
+  .video-block .video-item {
+      width: 174px;
+      float: left;
+      overflow: hidden;
+      margin-right: 10px;
+      margin-bottom: 20px;
+      width: 174px;
+      height: 115px;
+      overflow: hidden;
+  }
+
+  .events-item {
+    margin-bottom: 5px;
+  }
+  .events-item-image img {
+    width: 160px;
+    height: auto;
+  }
+
+  .events-item-title {
+    height: 107px;
+    margin-bottom: 13px;
+  }
+
+  .photo-item-image {
+      height: 105px;
+      overflow: hidden;
+      margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 991px){
+
+  .calendar .title {
+    font-size: 18px;
+  }
+
+  .main-menu>li>a {
+    padding: 3px 4px;
+    font-size: 11px;;
+  }
+
+  .lenguge-block p {
+    padding-top: 0px;
+  }
+
+  .logo2-block {
+    padding-top: 0;
+  }
+
+  .lenguge-block .support_us a {
+    font-size: 14px;
+  }
+
+  .header-top-text p {
+    top: 70px;
+    font-size: 15px;
+  }
+
+  .video-container {
+      padding-bottom: 56.25%;
+  }
+
+  .category_block .item-image {
+    height: 145px;
+  }
+
+  .category_block .item-title {
+    height: 90px;
+    margin-bottom: 20px;
+  }
+
+  .events-item-title {
+    height: 73px;
+    margin-bottom: 13px;
+  }
+
+  .category-post-item-image.image-height {
+    height: 104px;
+  }
+
+  .category-post-item-title p {
+    font-size: 13px;
+    padding: 7px 0;
+    height: 79px;
+  }
+
+  .events-item-image img {
+    width: 118px;
+    height: auto;
+  }
+
+  .events-item-image {
+    margin-right: 15px;
+  }
+  .photo-item-image {
+    height: 77px;
+    margin-bottom: 15px;
+  }
+
+  .video-block .video-item {
+    width: 135px;
+    height: 90px;
+    margin-bottom: 10px;
+  }
+
+  .video-block .first-video-item {
+    height: 190px;
+    overflow: hidden;
+    width: 284px;
+    float: left;
+    margin-right: 25px;
+  }
+
+}
+
+@media (max-width: 767px){
+
+  .single-post h1 {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+
+  .footer .col-sm-4 {
+    margin-bottom: 20px;
+  }
+
+  .lawyer-img, .lawyer-img-single {
+    width: 100%;
+    height: auto;
+  }
+
+  .photo-section {
+    margin-bottom: 20px;
+  }
+
+  .main-menu>li>a {
+    padding: 8px 7px;
+    font-size: 14px;
+  }
+
+  .category_block .item-image,
+  .category-post-item-image.image-height {
+    height: 200px;
+  }
+
+  .category_block .item-title {
+    height: 72px;
+    margin-bottom: 20px;
+  }
+
+  .video-block .first-video-item .icon {
+    font-size: 30px;
+  }
+
+  .photo-item-image {
+    height: auto;
+  }
+
+  .photo-list .category_name {
+    padding-right: 0;
+  }
+
+  .events-item-image img {
+    width: 150px;
+    height: auto;
+  }
+
+  .events-item-image {
+    margin-right: 15px;
+    margin-bottom: 10px;
+  }
+
+  .slider-title {
+      height: 25px;
+      padding: 5px;
+      font-size: 13px;
+  }
+
+  .video-block .first-video-item {
+      height: 100%;
+      width: 100%;
+  }
+
+  .video-block .video-item {
+    width: 100%;
+    height: 100%;
+  }
+
+  .video-block-mobail {
+    width: 50%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+  }
+  .photo-item {
+      margin-right: 0;
+  }
+
+  .video-block .item-list .video-block-mobail:last-child {
+    display: none;
+  }
+
+  .main-navigation .navbar{
+  	float: none;
+  }
+
+  .navbar-collapse ul {
+    margin: 0;
+  }
+
+  .menu-phone {
+    float: left;
+  }
+
+  .lenguge {
+    margin-top: -40px;
+    margin-bottom: 20px;
+  }
+
+  /*.sub-menu .dropdown:hover>.dropdown-menu {
+    display: block;
+  }*/
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    background: #00824b;
+    color: #fff;
+  }
+
+  .navbar-collapse.navbar-primary-collapse {
+    box-shadow: none;
+    border: 0;
+  }
+
+  .main-menu>li>a {
+    border-right: 0;
+  }
+
+  .sub-menu.dropdown-menu li a:hover {
+    background: #00824b;
+    color: #fff;
+  }
+
+  .lenguge-block {
+    float: none;
+  }
+
+  .lenguge-block {
+    text-align: left;
+}
+
+  .header-top-text p {
+    top: 110px;
+    left: 0;
+    font-size: 19px;
+    line-height: 1.6;
+  }
+
+}
+
+@media (max-width: 610px){
+  .category_block .item-image,
+  .category-post-item-image.image-height {
+    height: 165px;
+  }
+
+}
+
+@media (max-width: 530px){
+  .category_block .item-image,
+  .category-post-item-image.image-height {
+    height: 135px;
+  }
+
+  .lawyer-img-text {
+    height: 35px;
+    line-height: 15px;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+}
+
+@media (max-width: 450px){
+  .category_block .item-image {
+    max-height: 125px;
+  }
+
+  .category_block .item-image,
+  .category-post-item-image.image-height {
+    height: 100px;
+  }
+
+  .header-top-text p {
+    top: 35px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 390px){
+  .category_block .item-image {
+    max-height: 80px;
+  }
+
+  .category_block .item-image,
+  .category-post-item-image.image-height {
+    height: 85px;
+  }
+
+}

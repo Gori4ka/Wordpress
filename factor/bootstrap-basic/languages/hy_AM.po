@@ -1,0 +1,428 @@
+# Translation of the Boilerplate theme by me.
+# Copyright (C) 2012 the SmartWebsiteTips.com
+# EDGAR MARUKYAN <emarukyan@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Boilerplate 3.4.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/boilerplate\n"
+"POT-Creation-Date: 2012-10-19 16:21+0000\n"
+"PO-Revision-Date: 2017-04-20 11:25+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Language: hy_AM\n"
+
+# "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+msgid "Not Found"
+msgstr "Ոչինչ չի գտնվել"
+
+msgid "Apologies, but the page you requested could not be found."
+msgstr "Հայցում ենք Ձեր ներողամտությունը, նման հասցեով էջ գոյություն չունի:"
+
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Հայցում ենք Ձեր ներողամտությունը, տվյալ ամսաթվով լուրեր գոյություն չունեն:"
+
+msgid "Daily"
+msgstr "Օրվա"
+
+msgid "Monthly"
+msgstr "Ամսվա"
+
+msgid "Weekly"
+msgstr "Շաբաթվա"
+
+msgid "Newsfeed"
+msgstr "Լրահոս"
+
+msgid "News"
+msgstr "Լուրեր"
+
+msgid "Search Results for: %s"
+msgstr "Որոնման արդյունքները` «%s»"
+
+msgid "Nothing Found"
+msgstr "Ոչինչ չի գտնվել"
+
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Տվյալ բառ(երով) ոչինչ չի գտնվել. Փորձեք այլ բառային կոմբինացիա:"
+
+msgid "All news for today"
+msgstr "Օրվա բոլոր լուրերը"
+
+msgid "Page "
+msgstr "Էջ "
+
+msgid "Editor's Column"
+msgstr "Խմբագրի սյունակ"
+
+msgid "Read"
+msgstr "Ընթերցված"
+
+msgid "Videos"
+msgstr "(տեսանյութ)"
+
+msgid "Photo Stories"
+msgstr "Ֆոտոպատմություններ"
+
+msgid "Shared"
+msgstr "Տարածված"
+
+msgid "Advertisement"
+msgstr "Գովազդ"
+
+msgid "Search"
+msgstr "Որոնել"
+
+msgid "Facebook"
+msgstr "Ֆեյսբուք"
+
+msgid "Related News"
+msgstr "Թեմատիկ լուրեր"
+
+msgid "Print"
+msgstr "Տպել"
+
+msgid "Next"
+msgstr "Հաջորդ"
+
+msgid "Previous"
+msgstr "Նախորդ"
+
+msgid "The Next"
+msgstr "Հաջորդը"
+
+msgid "The Previous"
+msgstr "Նախորդը"
+
+msgid "Section Top News"
+msgstr "Բաժնի նյութերի ընտրանի"
+
+msgid "News Calendar"
+msgstr "Լուրերի օրացույց"
+
+msgid "Archives"
+msgstr "Արխիվ"
+
+msgid "Posted in"
+msgstr "Բաժին"
+
+msgid "View Archives for "
+msgstr "Դիտել տվյալ ամսաթվի արխիվը "
+
+msgid "Views: "
+msgstr "Դիտումներ՝ "
+
+msgid "January"
+msgstr "Հունվար"
+
+msgid "February"
+msgstr "Փետրվար"
+
+msgid "March"
+msgstr "Մարտ"
+
+msgid "April"
+msgstr "Ապրիլ"
+
+msgid "May"
+msgstr "Մայիս"
+
+msgid "June"
+msgstr "Հունիս"
+
+msgid "July"
+msgstr "Հուլիս"
+
+msgid "August"
+msgstr "Օգոստոս"
+
+msgid "September"
+msgstr "Սեպտեմբեր"
+
+msgid "October"
+msgstr "Հոկտեմբեր"
+
+msgid "November"
+msgstr "Նոյեմբեր"
+
+msgid "December"
+msgstr "Դեկտեմբեր"
+
+msgid "Old Website"
+msgstr "Կայքի հին տարբերակը"
+
+msgid "Rss feed"
+msgstr "Ռսս հոսք"
+
+msgid "Read more"
+msgstr "Կարդալ շարունակությունը"
+
+msgid "View previous"
+msgstr "Դիտել նախորդները"
+
+msgid "Archive"
+msgstr "Արխիվ"
+
+msgid "Info"
+msgstr "Տեղեկատու"
+
+msgid "Partners"
+msgstr "Գործընկերներ"
+
+msgid "Leave a Reply"
+msgstr "Պատասխանել"
+
+msgid "Comments"
+msgstr "Մեկնաբանություններ"
+
+msgid "Comments are closed."
+msgstr "Մեկնաբանություններն անջատված է:"
+
+msgid "Logged in as"
+msgstr "Մուտք եք գործել որպես`"
+
+msgid "Submit Comment"
+msgstr "Ուղարկել մեկնաբանությունը"
+
+msgid "Logout"
+msgstr "Ելք համակարգից"
+
+msgid "Related posts"
+msgstr "Նման նյութեր"
+
+msgid "Author's other posts"
+msgstr "Հեղինակի այլ հոդվածները"
+
+msgid "Author:"
+msgstr "Հեղինակ՝"
+
+msgid "Read count: <b>%s</b>"
+msgstr "Կարդացվել է <b>%s</b> անգամ"
+
+msgid "Comment(s)"
+msgstr "Մեկնաբանություն"
+
+msgid "Share"
+msgstr "Տարածել"
+
+msgid "Tag Archives: %s"
+msgstr "«%s» - նշված հոդվածները"
+
+msgid "Category all news"
+msgstr "Բաժնի բոլոր լուրերը"
+
+msgid "Name"
+msgstr "Անուն"
+
+msgid "E-mail"
+msgstr "Էլ-փոստ"
+
+msgid "will not be published"
+msgstr "չի հրապարակվի"
+
+msgid "required"
+msgstr "պարտադիր"
+
+msgid "Website"
+msgstr "Կայք էջ"
+
+msgid "Author's articles"
+msgstr "Հեղինակի Հոդվածները"
+
+msgid ""
+"Website is made in <a href='http://www.smartwebsitetips.com/' "
+"target='_blank'>SmartWebsiteTips</a> Lab."
+msgstr ""
+"Կայքը պատրաստվել է <a href='http://www.smartwebsitetips.com/' "
+"target='_blank'>SmartWebsiteTips</a> Լաբում:"
+
+msgid "Categories: "
+msgstr "Բաժիններ՝ "
+
+msgid "Tags: "
+msgstr "Խորագրեր՝ "
+
+msgid "Read more at:"
+msgstr "Ամբողջական հոդվածը կարող եք կարդալ այս հասցեով՝"
+
+msgid "Show"
+msgstr "Ցուցադրել"
+
+msgid "Yearly Archives: %s"
+msgstr "%s տարվա արխիվը"
+
+msgid "Monthly Archives: %s"
+msgstr "%s ամսվա արխիվը"
+
+msgid "Daily Archives: %s"
+msgstr "%s օրվա արխիվը"
+
+msgid "Announcement"
+msgstr "Հայտարարություն"
+
+msgid "Poll"
+msgstr "Հարցում"
+
+msgid "Featured Videos"
+msgstr "Տեսանյութերի ընտրանի"
+
+msgid "Open in new window"
+msgstr "Բացել նոր էջում"
+
+msgid "more"
+msgstr "ավելին"
+
+msgid "Upload"
+msgstr "Բեռնել"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:146
+msgid "Jan"
+msgstr "Հուն"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:147
+msgid "Feb"
+msgstr "Փետ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:148
+msgid "Mar"
+msgstr "Մար"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:149
+msgid "Apr"
+msgstr "Ապր"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:151
+msgid "Jun"
+msgstr "Հուն"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:152
+msgid "Jul"
+msgstr "Հուլ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:153
+msgid "Aug"
+msgstr "Օգո"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:154
+msgid "Sep"
+msgstr "Սեպ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:155
+msgid "Oct"
+msgstr "Հոկ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:156
+msgid "Nov"
+msgstr "Նոյ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:157
+msgid "Dec"
+msgstr "Դեկ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:159
+msgid "View larger window"
+msgstr "Դիտել մեծ պատուհանով"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:159
+msgid "Announcements"
+msgstr "Հայտարարություն"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/js/tinymce/langs/wp-langs.php:94 wp-includes/locale.php:159
+msgid "Yerevan"
+msgstr "Երևան"
+
+msgid "Mobile version"
+msgstr "Բջջային տարբերակ"
+
+msgid "Subscribe"
+msgstr "Բաժանորդագրվել"
+
+msgid "visit"
+msgstr "այցելություն"
+
+msgid "Day videos"
+msgstr "Օրվա տեսանյութերը"
+
+msgid "Day newsfeed"
+msgstr "Օրվա լրահոսը"
+
+msgid "Day featured news"
+msgstr "Օրվա գլխավոր լուրերը"
+
+msgid "Events"
+msgstr "ԻՐԱԴԱՐՁՈՒԹՅՈՒՆՆԵՐ"
+
+msgid "Video"
+msgstr "Տեսանյութ"
+
+msgid "(video)"
+msgstr "(տեսանյութ)"
+
+msgid "(images)"
+msgstr "(լուսանկարներ)"
+
+msgid "(voice)"
+msgstr "(ձայնագրություն)"
+
+msgid "Most read"
+msgstr "Ամենաընթերցվածները"
+
+msgid "Press"
+msgstr "ՄԱՄՈՒԼԻ ՏԵՍՈՒԹՅՈՒՆ"
+
+msgid "Guest:"
+msgstr "Հյուր`"
+
+msgid "Position:"
+msgstr "Պաշտոն"
+
+msgid "Latest Videos"
+msgstr "Վերջին տեսանյութերը"
+
+msgid "Weather"
+msgstr "ԵՂԱՆԱԿ"
+
+msgid "Currency"
+msgstr "ՏԱՐԱԴՐԱՄ"
+
+msgid "The day in pictures"
+msgstr "ՕՐԸ ԼՈՒՍԱՆԿԱՐՆԵՐՈՒՄ"
+
+msgid "See Also"
+msgstr "ԿԱՐԴԱՑԵՔ ՆԱԵՎ"
+
+msgid "Off Live stream"
+msgstr "Անջատել ուղիղ հեռարձակումը"
+
+msgid "Ted header text"
+msgstr ""
+"«TED + www.1in.am «Առաջին Լրատվական»»՝ համաշխարհային հանրահայտ կրթական  "
+"հարթակի և կայքէջի  համատեղ նախագիծն է։ Այսուհետ TED-ի ամենահայտնի  "
+"ելույթները,  ծիծաղաշարժ և հետաքրքիր մուլտֆիլմերը հասանելի կլինեն www.1in.am-"
+"ում՝ հայերեն և ռուսերեն լեզուներով։"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Էջը գոյություն չունի"

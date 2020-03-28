@@ -1,0 +1,46 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+RewriteRule ^(advertise-with-us)/?$ /?page_id=628
+RewriteRule ^(terms-of-service)/?$ /?page_id=481
+RewriteRule ^(about-us)/?$ /?page_id=614
+RewriteRule ^(contact-us)/?$ /?page_id=616
+RewriteRule ^(add-your-listing)/?$ /?page_id=507
+
+RewriteRule ^(just-listed)/?$ /?page_id=896
+RewriteRule ^(just-listed)/([0-9]+)/?$ /?page_id=896&pagenum=$2
+RewriteRule ^(under-\$30)/?$ /?page_id=898
+RewriteRule ^(under-\$30)/([0-9]+)/?$ /?page_id=898&pagenum=$2
+RewriteRule ^(featured)/?$ /?page_id=900
+RewriteRule ^(featured)/([0-9]+)/?$ /?page_id=900&pagenum=$2
+RewriteRule ^(crazy-deals)/?$ /?page_id=894
+RewriteRule ^(crazy-deals)/([0-9]+)/?$ /?page_id=894&pagenum=$2
+
+RewriteRule ^(by-category)/?$ /?page_id=902
+RewriteRule ^(by-category)/([^/]+)/?$ /?page_id=935&cat_name=$2 [N]
+RewriteRule ^(by-category)/([^/]+)/([0-9]+)/?$ /?page_id=935&cat_name=$2&pagenum=$3 [L,QSA]
+
+RewriteRule ^(top-sellers)/?$ /?page_id=904
+RewriteRule ^(top-sellers)/([^/]+)/?$ /?page_id=904&cat_id=$2 [L,QSA]
+RewriteRule ^(top-sellers)/([^/]+)/([^/]+)/?$ /?page_id=904&cat_id=$2&pagenum=$3 [L,QSA]
+
+RewriteRule ^(product-search)/?$ /?page_id=631
+RewriteRule ^(product-search)/([0-9]+)/?$ /?page_id=631&pagenum=$2
+RewriteRule ^(product-search)/([0-9a-zA-Z_-]+)/([0-9]+)/?$ /?page_id=631&search_text=$2&pagenum=$3
+
+RewriteRule ^(store-search)/?$ /?page_id=857
+
+RewriteRule ^(store-search)/([0-9a-zA-Z_-]+)/?$ /?page_id=862&shopname=$2
+RewriteRule ^(store-search)/([0-9a-zA-Z_-]+)/([0-9]+)/?$ /?page_id=862&shopname=$2&pagenum=$3
+
+RewriteRule ^location/([0-9a-zA-Z_-]+)/?$ /?location_id=$1
+RewriteRule ^location/([0-9a-zA-Z_-]+)/([0-9a-zA-Z_-]+)/?$ /?location_id=$1&category_id=$2 [L,QSA]
+RewriteRule ^location/([0-9a-zA-Z_-]+)/([0-9a-zA-Z_-]+)/([0-9a-zA-Z_-]+)/?$ /?job_listing=$3 [L,QSA]
+
+# BEGIN WordPress
+
+# END WordPress

@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#pmpro_payment_method span.gateway_paypalexpress {
+	margin-left: 0;
+	width: 50%;
+    display: inline-block; 
+}
+
+#pmpro_payment_method .pmpro_radio img {
+    max-width: 90%;
+}
+
+.pmpro_checkout-fields .gateway_paypal {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+@media only screen and (max-width: 767px) {
+	#pmpro_payment_method span.gateway_paypalexpress {
+		display: block;
+		margin: 1em 0 0 0;
+	}
+}

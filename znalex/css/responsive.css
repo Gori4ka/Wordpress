@@ -1,0 +1,81 @@
+@media (max-width: 575px) {
+	section {
+		padding: 15px 0;
+	}
+}
+@media (min-width: 1286px) and (max-width: 1456px){
+	.header-container{
+		min-height: 680px;
+	}
+	.btn-primary{
+		margin-top: 30%;
+	}
+}
+@media (min-width: 738px) and (max-width: 1286px){
+	.header-container{
+		min-height: 550px;
+	}
+	.btn-primary{
+		margin-top: 10%;
+	}
+}
+@media (max-width: 576px){
+	.gray-div-right{
+		border-left: 1px solid rgba(0, 0, 0, 0.1);
+	}
+}
+@media (max-width: 501px){
+	.our-team:before{
+		display:none !important;
+		width: 100px;
+	}
+}
+@media (max-width: 767px){
+	.bg-grey-right{
+		background:none;
+	}
+}
+@media (max-width: 750px){
+	.intro-text h1 {
+    font-size: 335%
+	}
+.btn-primary{
+	margin-top: 40px;
+}
+.header-container {
+    min-height: 365px;
+}
+}
+@media (max-width: 380px){
+	.intro-text h1 {
+    font-size: 238%;
+	}
+}
+@media (min-width: 1024px) and (max-width: 1420px){
+	.bg-grey-right{
+		min-height: 457px;
+	}
+}
+@media (min-width: 982px) and (max-width: 1024px){
+	.bg-grey-right{
+		min-height: 347px;
+	}
+}
+@media (max-width: 1202px) and  (min-width: 991px){
+	#mainNav .navbar-nav .nav-item .nav-link{
+		font-size:80%;
+	}
+}
+@media (max-width: 982px){
+	.bg-grey-right{
+		min-height: 0px;
+	}
+	.line-under-last:after{
+		width: 50px;
+	}
+}
+@media (max-width: 767px) {
+	section{
+		padding:0;
+	}
+}

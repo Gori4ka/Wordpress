@@ -1,0 +1,1 @@
+<?php  define('ALLNEWS', 22);  define('FEATURED', 71);  define('FESHION', 7);  define('SPORT', 2);  define('VIDEO', 72);  define('SHOPPING', 58);
